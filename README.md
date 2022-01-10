@@ -31,4 +31,4 @@
 
 ### ⚡ Languages
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Mags007&show_icons=true&title_color=ffffff&icon_color=006ab0&text_color=daf7dc&bg_color=101010' />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=gcrafting&show_icons=true&title_color=ffffff&icon_color=006ab0&text_color=daf7dc&bg_color=101010' />
