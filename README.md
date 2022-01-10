@@ -4,14 +4,9 @@
 
 <br />
 
-### 🌐 Languages
+### 🌐 Languages & Tools
 
 <a href='https://de.wikipedia.org/wiki/JavaScript'><img width='30' height='30' src='./javascript.png'/></a>
-
-<br />
-
-### 💻 Tools
-
 <a href='https://code.visualstudio.com/'><img width='30' height='30' src='./vscode.png'/></a>
 
 <br />
