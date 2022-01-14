@@ -20,8 +20,8 @@
 
 ### 🚀 Github Stats
 
-<img src='https://github-readme-stats.vercel.app/api?username=gcrafting&show_icons=true&title_color=ffffff&icon_color=006ab0&text_color=daf7dc&bg_color=101010'>
-<img src='https://github-readme-streak-stats.herokuapp.com?user=gcrafting&theme=onedark_duo'>
+<img src='https://github-readme-stats.vercel.app/api?username=gcrafting&show_icons=true&theme=highcontrast'>
+<img src='https://github-readme-streak-stats.herokuapp.com?user=gcrafting&theme=highcontrast'>
 
 <br />
 
