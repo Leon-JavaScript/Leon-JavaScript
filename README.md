@@ -26,4 +26,4 @@
 
 ### 💙 My Hosting-Partner
 
-![Then it's time to switch to PuhHosting. Get a low-cost but high-quality product today.](https://camo.githubusercontent.com/24e7f0e966d71c098841aec55db8033bff22fb70b33c2d395f5a73773fcd271c/68747470733a2f2f636c796e742e64652f70756861642e706e67)
+<a href='https://puh.hosting/aff/smitemc'><img src='https://camo.githubusercontent.com/24e7f0e966d71c098841aec55db8033bff22fb70b33c2d395f5a73773fcd271c/68747470733a2f2f636c796e742e64652f70756861642e706e67'></a>
