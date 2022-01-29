@@ -20,7 +20,7 @@
 
 ### 🚀 Github Stats
 
-<img src='https://github-readme-stats.vercel.app/api?username=gcrafting&show_icons=true&theme=highcontrast&count_private=true'> <img src='https://github-readme-streak-stats.herokuapp.com?user=gcrafting&theme=highcontrast'>
+<img src='https://github-readme-stats.vercel.app/api?username=gcrafting&show_icons=true&theme=highcontrast&count_private=true'> <img src='https://github-readme-streak-stats.herokuapp.com?user=gcrafting&theme=highcontrast'> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=gcrafting&theme=highcontrast&count_private=true' />
 
 <br />
 
