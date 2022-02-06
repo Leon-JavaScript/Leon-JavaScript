@@ -20,7 +20,7 @@
 
 ### 🚀 Github Stats
 
-<img src='https://github-readme-streak-stats.herokuapp.com?user=gcrafting&theme=highcontrast'>
+<img src='https://github-readme-streak-stats.herokuapp.com?user=Leon-JavaScript&theme=highcontrast'>
 
 <br />
 
