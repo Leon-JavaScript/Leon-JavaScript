@@ -26,4 +26,4 @@
 
 ### 💙 My Hosting-Partner
 
-<a href='https://puh.hosting/aff/smitemc'><img src='https://cdn.smitemc.de/puhhosting.png'></a>
+<a href='https://www.hosmatic.com/aff/smitemc'><img src='https://cdn.smitemc.de/puhhosting.png'></a>
