@@ -4,15 +4,10 @@
 
 <br />
 
-### 🌐 Languages & Tools
+### 🌐 Languages, Tools & Knowledge
 
 <a href='https://de.wikipedia.org/wiki/JavaScript'><img width='30' height='30' src='./javascript.png'/></a>
 <a href='https://code.visualstudio.com/'><img width='30' height='30' src='./vscode.png'/></a>
-
-<br />
-
-### 🧠 Knowledge
-
 <a href='https://nodejs.org/'><img width='30' height='30' src='./nodejs.png'/></a>
 <a href='https://www.mysql.com'><img width='30' height='30' src='./mysql.png'/></a>
 
