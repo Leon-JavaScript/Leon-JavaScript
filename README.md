@@ -18,4 +18,4 @@
 
 ### 💙 Du suchst einen Hoster für dein nächstes Projekt?
 
-<a href='https://www.hosmatic.com/aff/smitemc'><img src='https://cdn.discordapp.com/banners/683279660406013969/cf16610322319ba2687d708f81ad6116.png?size=1024'></a>
+<a href='https://www.hosmatic.com/aff/smitemc'><img src='https://cdn.discordapp.com/banners/683279660406013969/cf16610322319ba2687d708f81ad6116.png?size=512'></a>
