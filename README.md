@@ -1,6 +1,7 @@
 ### 📫 Kontaktmöglichkeiten
 
 - Discord: <a href='https://discordapp.com/users/617364437770436608'>Leon.#0646</a>
+- Discord Server: <a href='https://discord.smitemc.de'>https://discord.smitemc.de</a>
 
 <br />
 
