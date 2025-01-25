@@ -9,7 +9,7 @@ I'm not a full-time developer, and because of my real-life responsibilities, I a
 - [SmiteMC.de Minecraft Network](https://github.com/SmiteMCde) (Under Development)
 
 ## 🚀 Statistics
-<img src='https://github-readme-streak-stats.herokuapp.com?user=Leon-JavaScript&theme=transparent&hide_border=true&mode=daily&card_width=693&card_height=273'>
+<img src='https://github-readme-streak-stats-seven-azure.vercel.app?user=Leon-JavaScript&theme=transparent&hide_border=true&mode=daily&card_width=693&card_height=273'>
 
 ## 💙 Preferred Hosting Provider
 <a href="https://hosmatic.com"><img src="https://cdn.hosmatic.com/branding/logo_white_h_blue_lightblue.svg" style="width: 693px; height: 273px;"></a>
