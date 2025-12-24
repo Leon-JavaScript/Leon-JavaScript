@@ -3,7 +3,7 @@ I'm not a full-time developer, and because of my real-life responsibilities, I a
 
 ## 📫 Contact me
 - [Discord](https://discord.com/users/617364437770436608) (Username: `leonjs`)
-- [Discord Server](https://discord.smitemc.de)
+- [Discord Server](https://discord.gg/uFxHFRRuHZ)
 
 ## 📦 Projects
 - [SmiteMC.de Minecraft Network](https://github.com/SmiteMCde) (Under Development)
