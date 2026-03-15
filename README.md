@@ -9,4 +9,4 @@ I'm not a full-time developer, and because of my real-life responsibilities, I a
 - [SmiteMC.de Minecraft Network](https://github.com/SmiteMCde) (Under Development)
 
 ## 🚀 Statistics
-<img src='https://streak-stats.demolab.com?user=Leon-JavaScript&theme=transparent&hide_border=true&mode=daily&card_width=693&card_height=273'>
+<img src='https://streak-stats.demolab.com?user=Leon-JavaScript&theme=transparent&hide_border=true&mode=daily&card_width=693'>
