@@ -7,6 +7,7 @@ I'm not a full-time developer, and because of my real-life responsibilities, I a
 
 ## 📦 Projects
 - [SmiteMC.de Minecraft Network](https://github.com/SmiteMCde) (Under Development)
+- [Localine Translation Software](https://github.com/LocalineServices/web-app)
 
 ## 🚀 Statistics
 <img src='https://streak-stats.demolab.com?user=Leon-JavaScript&theme=transparent&hide_border=true&mode=daily&card_width=693'>
