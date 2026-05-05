@@ -1,5 +1,5 @@
 # Leon-JavaScript
-I'm not a full-time developer, and because of my real-life responsibilities, I also don't have the time to work continuously on projects. I've got phases where I'm more active and phases where I'm less active.
+I'm not a full-time developer, and due to my real-life responsibilities I can’t work on projects continuously. My activity varies over time, with periods where I’m more active and others where I contribute less.
 
 ## 📫 Contact me
 - [Discord](https://discord.com/users/617364437770436608) (Username: `leonjs`)
